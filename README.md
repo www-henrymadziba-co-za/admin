@@ -1,0 +1,2 @@
+# admin
+www.madziba.admin
